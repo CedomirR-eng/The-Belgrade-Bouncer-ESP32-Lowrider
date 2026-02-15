@@ -42,3 +42,6 @@ BUT WHAT IF WE COMBINE THE TWO AND GET THIS:
 I think this is what I am looking for. It is symmetical and powerful, but it requires two same dc motors.
 The motors need to rotate in different directions to work. And that can be done by connecting the motor poles differently.
 Please, if anyone has a better idea, let me know. I am open for suggestions.
+
+
+Now we can talk about the wheel. We said the wheel will be controled by the servo motor(by the X-Axis on the TX)
