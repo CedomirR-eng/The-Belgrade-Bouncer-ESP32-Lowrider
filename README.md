@@ -53,3 +53,12 @@ And i will not use two motors like i mentioned earlier because i came up to this
 So now we have this:
 
 ![Image](https://github.com/user-attachments/assets/17e0f79f-ba1e-46d9-a853-59b16b50e56f)
+
+OK, now we have a idea of how the back wheels will work
+
+And now lets get to front wheels and the main wheel(left,right).
+
+I am a few hours is figuring out how the steering should work, and no doubt this is the hardest part.
+I will be using these:
+
+
