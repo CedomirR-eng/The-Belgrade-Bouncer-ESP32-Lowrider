@@ -66,3 +66,5 @@ I will be using these:
  So the design will look like this:
  
 <img width="1600" height="576" alt="Image" src="https://github.com/user-attachments/assets/c5ba05f7-dc83-45d1-8c36-76721a082644" />
+
+<img width="1122" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9949b921-f074-474e-8434-94eb0db9ab89" />
