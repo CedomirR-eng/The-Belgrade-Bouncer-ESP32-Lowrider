@@ -52,3 +52,4 @@ The ends of the amortizers, and the pistons we connect to the base of the car, b
 And i will not use two motors like i mentioned earlier because i came up to this problem. Yes it would be better and nicer but it just isnt worth it, it is better just to find a stronger motor.
 So now we have this:
 
+![Image](https://github.com/user-attachments/assets/17e0f79f-ba1e-46d9-a853-59b16b50e56f)
