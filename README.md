@@ -65,3 +65,4 @@ I will be using these:
 
  So the design will look like this:
  
+<img width="1600" height="576" alt="Image" src="https://github.com/user-attachments/assets/c5ba05f7-dc83-45d1-8c36-76721a082644" />
