@@ -38,3 +38,7 @@ But what if we use two motors from both sides  in option 1?!
 BUT WHAT IF WE COMBINE THE TWO AND GET THIS:
 
 ![Image](https://github.com/user-attachments/assets/3fb6566b-ae68-4872-809b-5d193b212aa6)
+
+I think this is what I am looking for. It is symmetical and powerful, but it requires two same dc motors.
+The motors need to rotate in different directions to work. And that can be done by connecting the motor poles differently.
+Please, if anyone has a better idea, let me know. I am open for suggestions.
