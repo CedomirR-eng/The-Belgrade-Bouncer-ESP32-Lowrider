@@ -7,3 +7,5 @@ Lets make it so it can bounce like a real lowrider! Also we will add front light
   Now i will show you my first skeches of the car:
 
 ![Image](https://github.com/user-attachments/assets/1c23ca25-4f5e-4a58-9824-5f9c5eb1ca78)
+
+This is my first sketch of the TX(remote)
