@@ -48,4 +48,7 @@ So about a hour later, i learned alot about car mechanics and came up with this:
 
 ![Image](https://github.com/user-attachments/assets/6a9606ab-9dcc-4a3f-a6ff-9035c5fb9fcd)
 
+The ends of the amortizers, and the pistons we connect to the base of the car, but the piston and the amortizer cant be connected like this, so i connected the end of a amortizer to a servo motor(instead of a piston), and that servo motor will be connected to the base.
+And i will not use two motors like i mentioned earlier because i came up to this problem. Yes it would be better and nicer but it just isnt worth it, it is better just to find a stronger motor.
+So now we have this:
 
