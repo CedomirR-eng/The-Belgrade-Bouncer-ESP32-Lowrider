@@ -27,3 +27,5 @@ Now that we did the electronic part, we go to the mechanical part.
 So far we exlained how will this work and mentioned the tasks the RX will do acording to the instuction it gets. but now we need to put it all together.
 
 First we will do the main motor:
+
+![Image](https://github.com/user-attachments/assets/64bbbcda-e1ef-4b95-91b0-82f355e3e092)
