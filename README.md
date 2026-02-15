@@ -44,8 +44,8 @@ The motors need to rotate in different directions to work. And that can be done 
 
 But this has a major problem, this axis needs to move!
 We need to add amortizers so the car slides like a real lowrider. And most importantly, THE BOUNCERS!
-So about a hour later i came up with this:
+So about a hour later, i learned alot about car mechanics and came up with this:
 
-
+![Image](https://github.com/user-attachments/assets/6a9606ab-9dcc-4a3f-a6ff-9035c5fb9fcd)
 
 
