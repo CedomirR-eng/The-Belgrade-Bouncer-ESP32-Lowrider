@@ -16,3 +16,9 @@ But now we arrive on the tricky part. The car...
 First lets see what the circuit diagram looks like:
 
 ![Image](https://github.com/user-attachments/assets/db1431de-4968-4e88-baed-efad4006a868)
+
+Now we have a principle of how it will work.
+The TX joystick Y-Axis controls the main motor direction(forward or backward), while the X-Axis controls the servo motor(wheel).
+Meanwhile the SW(press the mushroom) of the joystick is controling the horn, and the switch is controling the lights. 
+Also B1,B2,B3,B4 control the mail thing. THE BOUNCERS!
+Renember, we are talking about TX components controling the RX.
