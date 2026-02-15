@@ -62,3 +62,6 @@ I am a few hours is figuring out how the steering should work, and no doubt this
 I will be using these:
 
 <img width="602" height="597" alt="Image" src="https://github.com/user-attachments/assets/47b51dc2-7f08-41ee-808c-3fcfba242cbe" />
+
+ So the design will look like this:
+ 
