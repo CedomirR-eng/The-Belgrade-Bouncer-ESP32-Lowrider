@@ -72,4 +72,6 @@ I will be using these:
 Lets ugree to something, this sketch is trash. BUT it has the mechanism we need.
 Note: I connected the amortizer(and bouncer) to the steering knucle, it is better to connect it to the arm(the long plate), so i will try both ways.
 
-The steering mechanism isnt clearly shown, but this is the same principle used like on the video i foud on youtube, picture is below:
+The steering mechanism isnt clearly shown, but this is the same principle used like on the picture below i foud on the internet, picture is below:
+
+<img width="384" height="110" alt="Image" src="https://github.com/user-attachments/assets/34d50403-7859-4537-b55b-5ad31a814349" />
