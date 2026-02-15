@@ -33,6 +33,6 @@ First we will do the main motor:
 We see here two options of which i think option 2 is much better because of the symmetry, the weight of the motor is in the center, but the gear and the motor cant both be in the center so it isnt symmetrical.
 But what if we use two motors from both sides  in option 1?!
 
-
+![Image](https://github.com/user-attachments/assets/d33c5656-3789-482b-a290-91ccb4ea5bd5)
 
 BUT WHAT IF WE COMBINE THE TWO AND GET THIS:
