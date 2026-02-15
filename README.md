@@ -36,3 +36,5 @@ But what if we use two motors from both sides  in option 1?!
 ![Image](https://github.com/user-attachments/assets/d33c5656-3789-482b-a290-91ccb4ea5bd5)
 
 BUT WHAT IF WE COMBINE THE TWO AND GET THIS:
+
+![Image](https://github.com/user-attachments/assets/3fb6566b-ae68-4872-809b-5d193b212aa6)
