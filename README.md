@@ -22,3 +22,8 @@ The TX joystick Y-Axis controls the main motor direction(forward or backward), w
 Meanwhile the SW(press the mushroom) of the joystick is controling the horn, and the switch is controling the lights. 
 Also B1,B2,B3,B4 control the mail thing. THE BOUNCERS!
 Renember, we are talking about TX components controling the RX.
+
+Now that we did the electronic part, we go to the mechanical part.
+So far we exlained how will this work and mentioned the tasks the RX will do acording to the instuction it gets. but now we need to put it all together.
+
+First we will do the main motor:
