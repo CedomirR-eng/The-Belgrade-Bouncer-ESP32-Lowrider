@@ -5,3 +5,5 @@ But we will make a radio frequency control system instead of a IR remote system 
 So we need to make a TX(the remote) and the RX(the car), and instead of the car simply going forward backward left and right, lets add some spice to it.
 Lets make it so it can bounce like a real lowrider! Also we will add front lights and a horn, because why not.
   Now i will show you my first skeches of the car:
+
+![Image](https://github.com/user-attachments/assets/1c23ca25-4f5e-4a58-9824-5f9c5eb1ca78)
