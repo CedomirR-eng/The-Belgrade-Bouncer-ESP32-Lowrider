@@ -68,3 +68,8 @@ I will be using these:
 <img width="1600" height="576" alt="Image" src="https://github.com/user-attachments/assets/c5ba05f7-dc83-45d1-8c36-76721a082644" />
 
 <img width="1122" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9949b921-f074-474e-8434-94eb0db9ab89" />
+
+Lets ugree to something, this sketch is trash. BUT it has the mechanism we need.
+Note: I connected the amortizer(and bouncer) to the steering knucle, it is better to connect it to the arm(the long plate), so i will try both ways.
+
+The steering mechanism isnt clearly shown, but this is the same principle used like on the video i foud on youtube, picture is below:
