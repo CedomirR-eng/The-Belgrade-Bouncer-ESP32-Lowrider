@@ -61,4 +61,4 @@ And now lets get to front wheels and the main wheel(left,right).
 I am a few hours is figuring out how the steering should work, and no doubt this is the hardest part.
 I will be using these:
 
-
+<img width="602" height="597" alt="Image" src="https://github.com/user-attachments/assets/47b51dc2-7f08-41ee-808c-3fcfba242cbe" />
