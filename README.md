@@ -15,7 +15,7 @@ This is my first sketch of the TX(remote)
 But now we arrive on the tricky part. The car...
 First lets see what the circuit diagram looks like:
 
-![Image](https://github.com/user-attachments/assets/db1431de-4968-4e88-baed-efad4006a868)
+![Image](https://github.com/user-attachments/assets/2d9129d8-031c-4585-9363-16a5dd951fb3)
 
 Now we have a principle of how it will work.
 The TX joystick Y-Axis controls the main motor direction(forward or backward), while the X-Axis controls the servo motor(wheel).
