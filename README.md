@@ -9,3 +9,5 @@ Lets make it so it can bounce like a real lowrider! Also we will add front light
 ![Image](https://github.com/user-attachments/assets/1c23ca25-4f5e-4a58-9824-5f9c5eb1ca78)
 
 This is my first sketch of the TX(remote)
+
+![Image](https://github.com/user-attachments/assets/2a9fc8c4-f375-4c09-a0d1-d81c3ea02574)
