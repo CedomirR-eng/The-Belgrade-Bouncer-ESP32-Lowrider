@@ -29,3 +29,10 @@ So far we exlained how will this work and mentioned the tasks the RX will do aco
 First we will do the main motor:
 
 ![Image](https://github.com/user-attachments/assets/64bbbcda-e1ef-4b95-91b0-82f355e3e092)
+
+We see here two options of which i think option 2 is much better because of the symmetry, the weight of the motor is in the center, but the gear and the motor cant both be in the center so it isnt symmetrical.
+But what if we use two motors from both sides  in option 1?!
+
+
+
+BUT WHAT IF WE COMBINE THE TWO AND GET THIS:
