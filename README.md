@@ -87,3 +87,7 @@ We dont need a antenna for this, we can use the esp32 with a integrated bluetoot
 Yes the range will be shorter but why do we need over 100m range if at that range you cant even see the rc car. Mabey if i add a camera to it, but that will be for a different time.
 
 Now lets update the circuit diagrams:
+
+<img width="1122" height="537" alt="Image" src="https://github.com/user-attachments/assets/6fd84244-42e3-453e-9892-56d11f8b479f" />
+
+This is the the TX circuit diagram that i will be using, I am making this PCB in easyEDA.com
