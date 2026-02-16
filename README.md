@@ -98,3 +98,5 @@ This is the the TX circuit diagram that i will be using, I am making this PCB in
 Now lets se the PCB
 
 <img width="637" height="451" alt="Image" src="https://github.com/user-attachments/assets/a045e032-25ea-4fe5-9c37-72be0863f3cd" />
+
+<img width="1109" height="645" alt="Image" src="https://github.com/user-attachments/assets/bc674269-1721-4dee-aa1b-2098286a8e40" />
