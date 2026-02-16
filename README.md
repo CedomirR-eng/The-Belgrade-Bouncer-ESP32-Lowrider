@@ -80,4 +80,10 @@ And now we have a idea of how the car mechanism will work!
 
 Now lets make small ajustments to the design so far:
 
-We dont need a antenna for this, we can use the esp32 with a integrated bluetooth antenna
+We dont need a antenna for this, we can use the esp32 with a integrated bluetooth antenna. Like this one:
+
+<img width="600" height="568" alt="Image" src="https://github.com/user-attachments/assets/67a27285-c28d-4736-8fc1-d4a4a12d0142" />
+
+Yes the range will be shorter but why do we need over 100m range if at that range you cant even see the rc car. Mabey if i add a camera to it, but that will be for a different time.
+
+Now lets update the circuit diagrams:
