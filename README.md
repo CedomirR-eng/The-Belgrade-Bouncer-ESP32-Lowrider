@@ -92,7 +92,6 @@ Now lets update the circuit diagrams:
 
 And design the PCB:
 
-<img width="661" height="457" alt="Image" src="https://github.com/user-attachments/assets/64aecb95-8ef0-4704-8d0a-258c82661c92" />
 
 This is the the TX circuit diagram that i will be using, I am making this PCB in easyEDA.com
 
