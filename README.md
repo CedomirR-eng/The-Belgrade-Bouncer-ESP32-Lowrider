@@ -75,3 +75,9 @@ Note: I connected the amortizer(and bouncer) to the steering knucle, it is bette
 The steering mechanism isnt clearly shown, but this is the same principle used like on the picture below i foud on the internet, picture is below:
 
 <img width="384" height="110" alt="Image" src="https://github.com/user-attachments/assets/34d50403-7859-4537-b55b-5ad31a814349" />
+
+And now we have a idea of how the car mechanism will work!
+
+Now lets make small ajustments to the design so far:
+
+We dont need a antenna for this, we can use the esp32 with a integrated bluetooth antenna
