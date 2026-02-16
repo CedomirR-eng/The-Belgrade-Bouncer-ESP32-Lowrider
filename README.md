@@ -97,3 +97,5 @@ And design the PCB:
 This is the the TX circuit diagram that i will be using, I am making this PCB in easyEDA.com
 
 Now lets se the PCB
+
+<img width="659" height="448" alt="Image" src="https://github.com/user-attachments/assets/ac49d2d2-c566-4523-b9d0-cd780ad2b226" />
