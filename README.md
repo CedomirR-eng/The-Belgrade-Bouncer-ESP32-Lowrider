@@ -99,6 +99,11 @@ Now lets se the PCB
 
 <img width="637" height="451" alt="Image" src="https://github.com/user-attachments/assets/a045e032-25ea-4fe5-9c37-72be0863f3cd" />
 
+Great! we made the PCB design. But we are far from over, but for now lets to the RX.
+
+Lets update the circuit diagram:
+
+
 <img width="1109" height="645" alt="Image" src="https://github.com/user-attachments/assets/bc674269-1721-4dee-aa1b-2098286a8e40" />
 
 <img width="942" height="667" alt="Image" src="https://github.com/user-attachments/assets/e34f7540-a876-471d-b12b-455f00cfe874" />
