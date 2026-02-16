@@ -88,7 +88,7 @@ Yes the range will be shorter but why do we need over 100m range if at that rang
 
 Now lets update the circuit diagrams:
 
-<img width="1211" height="535" alt="Image" src="https://github.com/user-attachments/assets/d70d748b-b655-416c-805e-47c7a13f0233" />
+<img width="1046" height="506" alt="Image" src="https://github.com/user-attachments/assets/d8ea2ff9-33ed-4d39-90a1-9d4dbdd0a246" />
 
 This is the the TX circuit diagram that i will be using, I am making this PCB in easyEDA.com
 
