@@ -107,3 +107,8 @@ Lets update the circuit diagram:
 <img width="1109" height="645" alt="Image" src="https://github.com/user-attachments/assets/bc674269-1721-4dee-aa1b-2098286a8e40" />
 
 <img width="942" height="667" alt="Image" src="https://github.com/user-attachments/assets/e34f7540-a876-471d-b12b-455f00cfe874" />
+
+
+Now lets do the RX(remote).
+
+This is the updated circuit:
