@@ -119,4 +119,4 @@ I will connect the elements with wires because I will later design my lowrider b
 
 Heres the PCB:
 
-
+<img width="623" height="428" alt="Image" src="https://github.com/user-attachments/assets/864c319e-addb-4c1f-b770-00babfc22d60" />
