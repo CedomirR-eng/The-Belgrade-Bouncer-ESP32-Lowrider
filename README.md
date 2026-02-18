@@ -112,3 +112,5 @@ Lets update the circuit diagram:
 Now lets do the RX(remote).
 
 This is the updated circuit:
+
+<img width="1014" height="583" alt="Image" src="https://github.com/user-attachments/assets/f63b9e65-4b6a-4952-b832-f7e119ae8089" />
