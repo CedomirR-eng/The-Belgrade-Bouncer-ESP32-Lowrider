@@ -127,6 +127,13 @@ Heres the PCB:
 
 
 
-So far so good. Now lets go through everything we need:
+For the main motor circuit we will use BTS7960 H bridge module insead of building my own(cheaper,better, faster), which is often used in rc cars.
+
+
+
+
+So far so good! Now lets finnish the design of the TX(remote):
+
+
 
 
