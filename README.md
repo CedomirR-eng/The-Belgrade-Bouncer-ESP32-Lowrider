@@ -166,6 +166,7 @@ For the eletrical part:
 For the mechanical part:
    *Knuckle C Hubs Suspension Arms CVD Shaft(for the front wheels)
    *Axle Differential Mechanism of RC Cars(for the back wheels)
+   *Drive Shaft
   
 
 
