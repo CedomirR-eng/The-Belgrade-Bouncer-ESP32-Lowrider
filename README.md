@@ -141,6 +141,31 @@ For the TX we need:
   *Battery charging module(type C)
   *3.7V lithium battery
   (without a 3d printer and a soldering iron this is impossible)
+(i will put everything we need list in a different code)
+
+
+Now lets finnish the RX(the car):
+
+We will use a 7.4V lithium battery, and also we will add a charging module for it.
+7.4V goes to the 5 servos and the main motor, but we will add a converter to put a smaller voltage to the ESP.
+This is what we need for this:
+For the eletrical part:
+   *ESP32-DevKitC
+   *Our RX PCB
+   *7.4V lithium battery
+   *2N2222(NPN) transistor
+   *1k resistor
+   *300ohm or 2x150ohm resistor
+   *2x white 5mm LEDS
+   *Small speaker
+   *PAM8403(audio amplifier)
+   *540 40T brushed motor
+   *BTS7960(H bridge for the main motor)
+   *5x 20kg DS3218 High Torque Digital Servo Motor(one for the wheel and four for the BOUNCERS!)
+
+For the mechanical part:
+   *Knuckle C Hubs Suspension Arms CVD Shaft(for the front wheels)
+   *Axle Differential Mechanism of RC Cars(for the back wheels)
   
 
 
