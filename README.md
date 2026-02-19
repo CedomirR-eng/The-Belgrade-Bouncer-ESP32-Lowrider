@@ -134,6 +134,15 @@ For the main motor circuit we will use BTS7960 H bridge module insead of buildin
 
 So far so good! Now lets finnish the design of the TX(remote):
 
+We will use a lithium 3.7V battery to power the TX, with a charging module.
+For the TX we need:
+  *ESP32-DevKitC
+  *Our TX PCB
+  *Battery charging module(type C)
+  *3.7V lithium battery
+  (without a 3d printer and a soldering iron this is impossible)
+  
+
 
 
 
