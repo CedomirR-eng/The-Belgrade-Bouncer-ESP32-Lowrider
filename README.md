@@ -167,6 +167,11 @@ For the mechanical part:
    *Knuckle C Hubs Suspension Arms CVD Shaft(for the front wheels)
    *Axle Differential Mechanism of RC Cars(for the back wheels)
    *Drive Shaft
+   *Wheel hubs
+   *Ball bearings(for the wheel hubs)
+   *Adjustable Link Rods
+   *Four wheels(i might buy them or make them)
+
   
 
 
